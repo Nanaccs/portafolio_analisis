@@ -1,7 +1,7 @@
 # portafolio_datos
 Crearé mi portafolio con lo que he ido aprendiendo y practicando
 # 💫 About Me:
-Actualmente estoy buscando trabajo en el área de análisis de datos<br><br>Estoy en constante práctica y aprendizaje de  SQL, Tableau , Power BI, Python<br>Pregúntame algo que deseas saber de mí<br>Estudie MBA ,he trabajado en marketing, HR, consultorías, evaluaciones para empresas y emprendedores <br>
+Actualmente estoy buscando trabajo en el área de análisis de datos, mas abajo esta mi Linkedin.<br><br>Estoy en constante práctica y aprendizaje de  SQL, Tableau , Power BI, Python..<br>Pregúntame algo que deseas saber de mí.<br>Estudie MBA ,he trabajado en marketing, HR, consultorías, evaluaciones para empresas y emprendedores. <br>
 
 
 ## 🌐 Socials:
